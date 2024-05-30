@@ -1,0 +1,28 @@
+
+
+.section{
+  padding-top: 40px;
+  padding-bottom:40px;
+}
+.main-heading {
+color: rgb(236, 74, 9);
+}
+.underline {
+height: 4px;
+width: 4rem;
+background-color: rgb(236, 74, 9);
+  
+}
+.bg{
+  background-color: rgb(233, 231, 231);
+}
+.footer a{
+  color: white;
+  text-decoration: none;
+}
+.footer a:hover{
+  color:gray
+}
+.main-heading2{
+  background-color: rgb(76, 192, 207);
+}
